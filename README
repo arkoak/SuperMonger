@@ -1,0 +1,13 @@
+SuperMonger
+===========
+A MongoDB client based on PHP . 
+installable on any php enabled web server with mongodb support
+Author : arkoak
+Current Version : 0.0
+
+
+Next Planned Features
+> ability to view data in tabular form
+> insert new data (document)
+> delete existing data(document)
+> select a range to do an operation 
